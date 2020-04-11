@@ -1,5 +1,5 @@
 # Introduction
-This is a code repository for the covid19 India live data . 
+This is a code repository for the covid19 India . 
 
 API used: https://covid19.mathdro.id/api
 
