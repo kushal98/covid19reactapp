@@ -4,5 +4,6 @@ Check Live App Here : https://covid19indiafights.herokuapp.com/
 API used: https://covid19.mathdro.id/api
 <br/>
 The main aim pf this project was just to build a react based website that can be used to visualize the data about the covid19 patients in india.
+<br/>
 Setup:
 - run ```npm i && npm start```
