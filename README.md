@@ -16,7 +16,6 @@ To run this project in your local machine -
 
 # Live 
 Check Live App Here : https://covid19indiafights.herokuapp.com/
-API used: 
 
 ## API Reference
 I have used the following API for the data:
